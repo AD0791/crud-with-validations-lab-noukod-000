@@ -6,6 +6,7 @@ gem 'sqlite3', '~> 1.3.6'
 gem 'rspec-rails'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
+gem 'rails-controller-testing'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
